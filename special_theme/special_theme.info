@@ -1,0 +1,14 @@
+name = Special Theme
+description = Special Theme
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = style.css
+scripts[] = special_theme.js
+
+regions[header] = Header
+regions[header_btns] = Header Buttons
+regions[navigation] = Navigation
+regions[content] = Content
+regions[sidebar_first] = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer] = Footer

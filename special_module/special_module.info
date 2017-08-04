@@ -1,0 +1,10 @@
+name = Special Module
+description = Special Version Module
+core = 7.x
+version = "7.x-1.4"
+package = IT Crowd
+
+configure = admin/appearance/settings
+
+scripts[] = js/special_module.js
+stylesheets[all][] = css/special_module.css

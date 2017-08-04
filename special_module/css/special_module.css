@@ -1,0 +1,18 @@
+#special-block {
+  background: url(../images/special.png);
+  display: inline-block;
+  width: 200px;
+  height: 67px;
+}
+
+/*#special-block:hover {
+  background: url(../images/special-hover.jpg);
+}*/
+
+#special-normal-block {
+  background: url(../images/normal.png) no-repeat ;
+  width: 185px;
+  height: 72px;
+  display: block;
+  margin: 0 auto;
+}
